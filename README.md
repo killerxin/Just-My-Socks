@@ -36,6 +36,9 @@
 
 所有套餐均提供 5 个不同路由服务器节点，支持 Shadowsocks 与 V2Ray 协议，且均享受**被墙自动换 IP**保障。
 
+[![Just My Socks 套餐对比与推荐](just_my_socks_recommended.png)](https://justmysocks.net/members/aff.php?aff=2657)
+*(点击上方图片或下方任意套餐名称均可直达官网订购)*
+
 ### 1. 洛杉矶套餐（性价比首选 · 电信/联通/移动优化）
 
 走 CN2 GIA 优质精品线路，日常冲浪、看 4K 视频的首选方案：
