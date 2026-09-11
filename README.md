@@ -1,6 +1,6 @@
 # Just My Socks 选购指南与最新优惠码整理 (2026 最新)
 
-> **Just My Socks** 是著名 VPS 服务商搬瓦工（BandwagonHost）旗下的官方高质量代理服务。最大的特色是**IP被墙自动更换**，省去了自己搭建、频繁维护以及担心 IP 被封的烦恼，全节点提供 CN2 GIA / IPLC 极速专线支持。
+> **Just My Socks** 是著名 VPS 服务商搬瓦工（BandwagonHost）旗下的官方高质量代理服务。最大的特色是**🌟IP被墙自动更换🌟**，省去了自己搭建、频繁维护以及担心 IP 被封的烦恼，全节点提供 CN2 GIA / IPLC 极速专线支持。
 
 ---
 
