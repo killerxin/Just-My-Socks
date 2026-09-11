@@ -42,7 +42,7 @@
 
 | 套餐名称（点击直达） | 每月流量 | 端口带宽 | 设备限制 | 月付价格 |
 | :--- | :--- | :--- | :--- | :--- |
-| [**LA 500*🔥](https://justmysocks.net/members/aff.php?aff=2657) | 500 GB | 2.5 Gbps | 最多 5 台设备 | $5.88 /月 |
+| [**LA 500**🔥](https://justmysocks.net/members/aff.php?aff=2657) | 500 GB | 2.5 Gbps | 最多 5 台设备 | $5.88 /月 |
 | [**LA 1000**🔥🔥](https://justmysocks.net/members/aff.php?aff=2657) | 1 TB (1000GB) | 5 Gbps | **不限设备数** | $9.88 /月 |
 | [**LA 5000**](https://justmysocks.net/members/aff.php?aff=2657) | 5 TB (5000GB) | 5 Gbps | **不限设备数** | $48.99 /月 |
 | [**LA 10000**](https://justmysocks.net/members/aff.php?aff=2657) | 10 TB | 5 Gbps | **不限设备数** | $93.99 /月 |
