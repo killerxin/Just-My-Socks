@@ -90,7 +90,7 @@
 ## 🧭 套餐选购指南
 
 - **[🔥 单人使用推荐：首选 LA 500](https://justmysocks.net/members/aff.php?aff=2657)**（月均仅 \$5.88），500G 充足流量，满足绝大多数个人日常查资料、办公及 4K 高清视频观看。
-- **[⭐ 多人多设备强烈推荐：首选 LA 1000](https://justmysocks.net/members/aff.php?aff=2657)**（月均 \$9.88），**不限制设备数量**，端口带宽高达 5 Gbps，非常适合家庭成员共享、多台电脑手机平板同时在线。
+- **[🔥🔥 多人多设备强烈推荐：首选 LA 1000](https://justmysocks.net/members/aff.php?aff=2657)**（月均 \$9.88），**不限制设备数量**，端口带宽高达 5 Gbps，非常适合家庭成员共享、多台电脑手机平板同时在线。
 - **低延迟敏感 / 游戏办公：** 推荐 [**HK China Mobile（移动优化）**](https://justmysocks.net/members/aff.php?aff=2657) 或 [**IPLC 专线套餐**](https://justmysocks.net/members/aff.php?aff=2657)。
 - **重度下载与团队业务：** 选 [**LA 5000 / 10000**](https://justmysocks.net/members/aff.php?aff=2657)。
 
