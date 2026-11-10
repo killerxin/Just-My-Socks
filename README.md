@@ -2,13 +2,13 @@
 # Just My Socks 2026 中文指南：最新优惠码、套餐价格对比与购买教程
 
 > **Just My Socks（JMS）选购与使用指南**  
-> 汇总 Just My Socks 优惠码、洛杉矶 CN2 GIA、香港 IPLC、日本及英国线路套餐，提供价格对比、购买流程、客户端配置和常见问题解答。
+> Just My Socks 优惠码、洛杉矶 CN2 GIA、香港 IPLC、日本及英国线路套餐，提供价格对比、购买流程、客户端配置和常见问题解答。
+> 
+> [官方订购入口](https://justmysocks.net/members/aff.php?aff=2657) · [官方公告](https://justmysocks.net/members/index.php?rp=/announcements)📌 **优惠码：`JMS9272283`**  公开资料标注约 5.2% 循环折扣，是否适用及实际优惠金额请以订单结算页面为准。
+> 
+<img width="1774" height="887" alt="蓝天长城与飞行火箭" src="https://github.com/user-attachments/assets/30503b8b-1f2d-4d4e-9422-d86221c7316f" />
 
 
-[官方订购入口](https://justmysocks.net/members/aff.php?aff=2657) · [官方公告](https://justmysocks.net/members/index.php?rp=/announcements)
-
-> 📌 **优惠码：`JMS9272283`**  
-> 公开资料标注约 5.2% 循环折扣，是否适用及实际优惠金额请以订单结算页面为准。
 
 ## 📖 目录
 
